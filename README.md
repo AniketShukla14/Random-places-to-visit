@@ -27,7 +27,7 @@ It is a website that generates Random Places on every Refresh , it contains List
   </ol>
 
 <!-- ABOUT THE PROJECT -->
-### About The Project
+## About The Project
 It consist of a Image of the place in order to help the user to visualise and also a Map in order to know the exact location and distance of the place from the user location.
 
 
@@ -35,6 +35,6 @@ It consist of a Image of the place in order to help the user to visualise and al
 ![ss2-](https://user-images.githubusercontent.com/60666490/139695617-59db2663-735d-4b53-a22a-4958a1e810ca.png)
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
 
-#### Objective
+## Objective
 To learn and implement the different HTML and CSS commands along with the Random generator function from JavaScript.
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
