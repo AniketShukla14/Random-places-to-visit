@@ -23,4 +23,4 @@ It's a website that generates Random Places on every Refresh , So that you can e
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://aniketshukla14.github.io/Randomiii/)
