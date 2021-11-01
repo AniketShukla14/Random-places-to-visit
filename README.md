@@ -10,6 +10,7 @@ It is a website that generates Random Places on every Refresh , it contains List
     <ul>
       <li><a href="#about-the-project">About The Project</a></li>
         <li><a href="#built-with">Built With</a></li>
+      <li><a href="#Objective">Objective</a></li>
       </ul>
   </ol>
 </details>
@@ -30,4 +31,4 @@ It is a website that generates Random Places on every Refresh , it contains List
 ![ss2-](https://user-images.githubusercontent.com/60666490/139695617-59db2663-735d-4b53-a22a-4958a1e810ca.png)
 
 #### Objective
-To learn and implement the different HTML and CSS commands along with the Random function from JavaScript.
+To learn and implement the different HTML and CSS commands along with the Random generator function from JavaScript.
