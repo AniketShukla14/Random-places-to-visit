@@ -8,8 +8,8 @@ It's a website that generates Random Places on every Refresh , So that you can e
   <summary>Table of Contents</summary>
   <ol>
     <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+      <li><a href="#about-the-project">About The Project</a></li>
+        <li><a href="#built-with">Built With</a></li>
       </ul>
   </ol>
 </details>
