@@ -27,4 +27,5 @@ It's a website that generates Random Places on every Refresh , So that you can e
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 ![ss2](https://user-images.githubusercontent.com/60666490/139693803-4500f574-fea0-44d4-9f70-9f852f6b3071.jpg)
-![ss2](https://user-images.githubusercontent.com/60666490/139694553-969cf169-b992-4f1d-a299-b6cdd660744d.png)
+![ss2-](https://user-images.githubusercontent.com/60666490/139695617-59db2663-735d-4b53-a22a-4958a1e810ca.png)
+
