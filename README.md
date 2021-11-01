@@ -10,7 +10,7 @@ It's a website that generates Random Places on every Refresh , So that you can e
     <li>
       <a href="#about-the-project">About The Project</a>
       <li>
-        <li><a href="#built-with">Built With</a></li>
+       <a href="#built-with">Built With</a>
       </li>
     </li>
    
