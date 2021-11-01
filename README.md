@@ -4,11 +4,11 @@ It's a website that generates Random Places on every Refresh , So that you can e
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
+    <ul>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
-    </li>
+    </ul>
   </ol>
 </details>
