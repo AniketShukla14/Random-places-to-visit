@@ -8,8 +8,8 @@ It is a website that generates Random Places on every Refresh , it contains List
   <summary>Table of Contents</summary>
   <ol>
     <ul>
+      <li><a href="#built-with">Built With</a></li>
       <li><a href="#about-the-project">About The Project</a></li>
-        <li><a href="#built-with">Built With</a></li>
       <li><a href="#Objective">Objective</a></li>
       </ul>
   </ol>
