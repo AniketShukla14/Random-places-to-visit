@@ -14,8 +14,17 @@ It's a website that generates Random Places on every Refresh , So that you can e
   </ol>
 </details>
 
-
+<!-- Built with -->
+## Built With
+<ol>
+    <ul>
+      <li><a href="#">HTML</a></li>
+       <li><a href="#">CSS</a></li>
+      <li><a href="#">JavaScript</a></li>
+      </ul>
+  </ol>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+### About The Project
 ![ss2](https://user-images.githubusercontent.com/60666490/139693803-4500f574-fea0-44d4-9f70-9f852f6b3071.jpg)
+![ss2](https://user-images.githubusercontent.com/60666490/139694553-969cf169-b992-4f1d-a299-b6cdd660744d.png)
