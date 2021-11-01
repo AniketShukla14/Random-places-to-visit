@@ -6,15 +6,12 @@ It's a website that generates Random Places on every Refresh , So that you can e
 
 <details>
   <summary>Table of Contents</summary>
-
-    <ul><a href="#about-the-project">About The Project</a></ul>
-     
-    <ul> <a href="#built-with">Built With</a> </ul>
-      
-
-   
-
-
+  <ol>
+    <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+  </ol>
 </details>
 
 
