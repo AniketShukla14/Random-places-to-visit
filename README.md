@@ -1,7 +1,6 @@
-<div id="top"></div>
 # Randomiii
 It is a website that generates Random Places on every Refresh , it contains List Of Beautiful Places along with the Pictures and the Map Location.
-
+<div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
 
