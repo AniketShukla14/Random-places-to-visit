@@ -23,8 +23,9 @@ It is a website that generates Random Places on every Refresh , it contains List
        <li><a href="#">CSS</a></li>
       <li><a href="#">JavaScript</a></li>
       </ul>
+  <p align="right">(<a href="#Randomiii">back to top</a>)</p>
   </ol>
-<p align="right">(<a href="#Randomiii">back to top</a>)</p>
+
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 ![ss2](https://user-images.githubusercontent.com/60666490/139693803-4500f574-fea0-44d4-9f70-9f852f6b3071.jpg)
