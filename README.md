@@ -7,12 +7,12 @@ It's a website that generates Random Places on every Refresh , So that you can e
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
+    <ul>
       <a href="#about-the-project">About The Project</a>
-      <li>
+      <ul>
        <a href="#built-with">Built With</a>
-      </li>
-    </li>
+      </ul>
+    </ul>
    
 
   </ol>
