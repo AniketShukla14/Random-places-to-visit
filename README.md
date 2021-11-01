@@ -18,5 +18,4 @@ It's a website that generates Random Places on every Refresh , So that you can e
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://aniketshukla14.github.io/Randomiii/)
+![ss2](https://user-images.githubusercontent.com/60666490/139693803-4500f574-fea0-44d4-9f70-9f852f6b3071.jpg)
