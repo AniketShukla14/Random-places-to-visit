@@ -1,5 +1,5 @@
 # Randomiii
-It's a website that generates Random Places on every Refresh , So that you can enjoy the pictures and the Map.
+It's a website that generates Random Places on every Refresh , So that you can enjoy the picture and the Map Location.
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
