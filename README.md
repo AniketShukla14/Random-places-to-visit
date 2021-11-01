@@ -19,9 +19,9 @@ It is a website that generates Random Places on every Refresh , it contains List
 ## Built With
 <ol>
     <ul>
-      <li><a href="#">HTML</a></li>
-       <li><a href="#">CSS</a></li>
-      <li><a href="#">JavaScript</a></li>
+      <li><a href="https://html.com/">HTML</a></li>
+       <li><a href="https://css-tricks.com/">CSS</a></li>
+      <li><a href="https://www.javascript.com/">JavaScript</a></li>
       </ul>
   <p align="right">(<a href="#Randomiii">back to top</a>)</p>
   </ol>
