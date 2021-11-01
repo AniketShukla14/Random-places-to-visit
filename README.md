@@ -35,7 +35,6 @@ It consist of a Image of the place in order to help the user to visualise and al
 ![ss2-](https://user-images.githubusercontent.com/60666490/139695617-59db2663-735d-4b53-a22a-4958a1e810ca.png)
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
 
-<!--Objective -->
 #### Objective
 To learn and implement the different HTML and CSS commands along with the Random generator function from JavaScript.
 <p align="right">(<a href="#Randomiii">back to top</a>)</p>
