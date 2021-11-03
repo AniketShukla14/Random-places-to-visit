@@ -1,5 +1,5 @@
 # Randomiii
-It is a website that generates Random Places on every Refresh, it contains List Of Beautiful Places along with the Pictures and the Map Location.
+It is a website that generates random places on every refresh, it contains list of Beautiful Places along with the pictures and Map location.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -28,7 +28,7 @@ It is a website that generates Random Places on every Refresh, it contains List 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-It consist of a Image of the place in order to help the user to visualise and also a Map in order to know the exact location and distance of the place from the user location.
+It consist of a image of the place in order to help the user to visualise and also a Map in order to know the exact location and distance of the place from the user location.
 
 
 ![ss2](https://user-images.githubusercontent.com/60666490/139693803-4500f574-fea0-44d4-9f70-9f852f6b3071.jpg)
